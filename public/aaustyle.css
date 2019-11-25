@@ -1,0 +1,246 @@
+#topBar {
+    background-color: #2A66A7;
+    height: 70px;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#aaulogo {
+    height: 70px;
+    padding-left: 150px;
+    float: left;
+    margin-right: 10px;
+}
+
+#name {
+    color: white;
+    float: left;
+    font-weight: bold;
+    font-size: larger;
+    position: relative;
+    top: -10px;
+}
+
+#nameAmharic {
+    padding-left: 20px;
+}
+
+.topMenu {
+    float: left;
+    color: white;
+    position: relative;
+    top: 20px;
+    padding-left: 20px;
+    text-decoration: none ;
+}
+
+.topMenu:hover {
+    color: #1CDC94;
+}
+
+#firstTopMenu {
+    padding-left: 150px;
+}
+
+#arrow {
+    position: relative;
+    top: 24px;
+    width: 15px;
+    height: 15px;
+    padding-left: 5px;
+}
+
+#announcement {
+
+}
+
+#leftHalf {
+    width: 480px;
+    margin-left: 150px;
+    border-right: 1px solid gray;
+
+}
+
+#topLeftText {
+    color: #2A66A7;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#textHumanity {
+    padding-left: 150px;
+}
+
+#firstHr {
+    font-weight: lighter;
+}
+
+#secondTopLeftText {
+    color: #0080FB;
+    position: relative;
+   float: left;
+
+}
+
+#t {
+    float: left;
+
+}
+
+#firstNote {
+
+}
+
+#card1 {
+    width: 300px;
+    height: 100px;
+    background-color: #2D95BB;
+    float: left;
+}
+
+#card2 {
+    width: 300px;
+    height: 100px;
+    background-color: #2D95BB;
+    float: left;
+
+}
+
+#card3 {
+    width: 300px;
+    height: 160px;
+    background-color: #2D95BB;
+    float: left;
+
+}
+
+.header {
+    color: #FCF120;
+    padding-left: 10px;
+}
+
+.card {
+    border-radius: 0 10px 10px 0;
+    margin-bottom: 10px;
+}
+
+.cardtext {
+    color: white;
+    padding-left: 10px;
+}
+
+.icon {
+    background-color: #45A1C3;
+    width: 150px;
+    border-radius: 10px 0 0 10px;
+
+}
+
+#firstIcon {
+    float: left;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#secondIcon {
+    float: left;
+    height: 100px;
+}
+
+#thirdIcon {
+    float: left;
+    height: 160px;
+}
+
+.cardImage {
+    width: 70px;
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+#rightHalf {
+    margin-left: 150px;
+
+}
+
+#gate {
+    margin-left: 150px;
+    position: relative;
+    top: -80px;
+    width: 280px;
+}
+
+#loginText {
+    color: #2A7AC2;
+    font-family: sans-serif;
+}
+
+#logInCard {
+
+    position: absolute;
+    left: 785px;
+    top: 250px;
+    height: 300px;
+    width: 235px;
+    border: 1px solid #F6F6F6;
+    padding-left: 35px;
+}
+
+
+#userName {
+    margin-bottom: 15px;
+}
+
+#password {
+    margin-bottom: 15px;
+}
+
+#logInButton {
+    width: 170px;
+    color: white;
+    background-color: #2A66A7;
+    border-radius: 5px;
+    height: 30px;
+    border-color: #2A66A7;
+    margin: 0;
+}
+
+#newEntry {
+    color: red;
+    margin-bottom: 0;
+}
+
+#link {
+    color: #319ED1;
+}
+#userNameInImg{
+    float: left;
+    margin-bottom: 10px;
+    border-radius: 5px 0 0px 5px;
+}
+#userNameInput{
+    float: left;
+    margin-bottom: 10px;
+    border-radius: 0 5px 5px 0;
+
+}
+#lockImg{
+
+    margin-bottom: 10px;
+    border-radius: 5px 0 0px 5px;
+}
+#lockInput{
+   position: relative;
+    top: -13px;
+    left: -4px;
+    margin-bottom: 10px;
+    border-radius: 0 5px 5px 0;
+
+}
+
+

@@ -1,0 +1,167 @@
+#header {
+    margin-left: 60px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#topMenuBar {
+    background-color: #428BCA;
+    height: 50px;
+    position: relative;
+    top: -5px;
+}
+
+.topMenuText {
+    float: left;
+    margin-right: 10px;
+    color: white;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+}
+
+#firstTopMenu {
+    margin-left: 10px;
+}
+
+.topMenus {
+    float: left;
+    height: 50px;
+}
+
+.topMenus:hover {
+    background-color: #136CB8;
+    margin-left: 10px;
+}
+
+.topMenusImg {
+    float: left;
+    position: relative;
+    top: 7px;
+    margin-left: 10px;
+}
+
+#topLeftNavigation {
+    width: 200px;
+    height: 205px;
+    position: relative;
+    left: 20px;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px 5px 0 0;
+    float: left;
+
+}
+
+.navigationElements {
+
+}
+
+.brightNavigation {
+    background-color: #FFFFFF;
+    height: 30px;
+    position: relative;
+    color: #555555;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.darkNavigation {
+    background-color: #DFF0D8;
+    height: 30px;
+    position: relative;
+    color: #555555;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.navigationDisplay {
+    background-color: #72AFE2;
+    height: 25px;
+    margin-bottom: 0px;
+    border-radius: 5px 5px 0 0;
+    color: white;
+    position: relative;
+    padding-top: 3px;
+    padding-left: 3px;
+
+}
+
+#bottomLeftNavigation {
+    width: 200px;
+    height: 275px;
+    border-radius: 7px 7px 0 0;
+    border: 1px solid #DDDDDD;
+    position: relative;
+    left: 20px;
+    margin-top: 15px;
+    float: left;
+}
+
+#infoDisplay {
+    width: 1000px;
+    height: 330px;
+    border: 1px solid #DDDDDD;
+    float: right;
+    position: relative;
+    left: -70px;
+    border-radius: 10px;
+}
+
+#firstTop {
+    background-color: #555555;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+#table {
+
+    column-gap: 10px;
+    grid-row-gap: 50px;
+    float: left;
+    border-spacing: 15px;
+
+}
+
+#userImage {
+    float: right;
+    width: 150px;
+    border-radius: 10px;
+}
+
+#moreInfo {
+    background-color: #F2DEDE;
+    height: 20px;
+    color: #B94A48;
+    font-weight: bold;
+    width: 970px;
+ /*   margin-top: 100px;*/
+    margin: 0 auto;
+}
+
+#clickHere {
+    color: #1E5799;
+}
+
+.firstColumn {
+    font-weight: bold;
+}
+
+#info {
+    margin: 25px 60px 0 30px;
+    height: 200px;
+}
+#moreInfoLink{
+    text-decoration: none;
+    color: #B94A48;
+}
+#message{
+    background-color: #D9EDF7;
+    height: 30px;
+    float: bottom;
+    position: relative;
+    top: 500px;
+    left: 500px;
+}
