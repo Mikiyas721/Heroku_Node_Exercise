@@ -32,11 +32,12 @@ app.use((request, response, next) => {
     });
     next();
 });
-app.use((request, response, next) => {
+/*app.use((request, response, next) => {
     response.render('maintain.hbs', {
         error: "We are facing some challenges. We'll be back in a few seconds."
-    })
-});
+    });
+    next();
+});*/
 
 app.get('/', (request, response) => {
     /* response.send("<h1>Hello Express</h1>");*/
